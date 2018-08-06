@@ -1,0 +1,12 @@
+INSERT INTO cebu_pac_destination (destination_name,destination_code) VALUES ('Melbourne','MEL'),('Sydney','SYD'),('Bandar Seri Begawan (Brunei)','BWN'),('Siem Reap','KH'),
+('Beijing','PEK'),('Guangzhou (Canton)','CAN'),('Shanghai','PVG'),('Xiamen','XMN'),('HongKong','HKG'),('Bali (Denpasar)','DPS'),
+('Jakarta','CGK'),('Fukuoka','FUK'),('Nagoya','NGO'),('Osaka (Kansai)','KIX'),('Tokyo (Narita)','NRT'),('Macau','MFM'),
+('Kota Kinabalu','BKI'),('Kuala Lumpur','KUL'),('Bacolod','BCD'),('Batanes (Basco)','BSO'),('Bohol (Tagbilaran)','TAG'),
+('Boracay (Caticlan)','MPH'),('Butuan ','BXU'),('Cagayan de Oro ','CGY'),('Calbayog','CYP'),('Camiguin','CGM'),
+('Cauayan','CYZ'),('Cebu','CEB'),('Clark','CRK'),('Coron (Busuanga)','USU'),('Cotabato','CBO'),
+('Davao','DVO'),('Dipolog ','DPL'),('Dumaguete ','DGT'),('General Santos','GES'),('Iloilo','ILO'),
+('Kalibo','KLO'),('Legazpi','LGP'),('Manila','MNL'),('Masbate','MBT'),('Naga','WNP'),('Ozamiz','OZC'),
+('Pagadian','PAG'),('Puerto Princesa','PPS'),('Roxas ','RXS'),('San Jose (Mindoro)','SJI'),('Siargao','IAO'),
+('Surigao','SUG'),('Tablas','TBH'),('Tacloban ','TAC'),('Tandag','TDG'),('Tawi-Tawi','TWT'),('Tuguegarao','TUG'),('Virac','VRC'),
+('Zamboanga','ZAM'),('Singapore','SIN'),('Busan','PUS'),('Seoul (Incheon)','ICN'),('Taipei','TPE'),
+('Bangkok','BKK'),('Dubai','DXB'),('Guam','GUM'),('Hanoi','HAN'),('Ho Chi Minh','SGN');
